@@ -9,7 +9,7 @@ Mi portafolio está diseñado para mostrar:
 
 El portafolio está desarrollado en **HTML y CSS**
 
-## 🛠 Tecnologías utilizadas
+##  Tecnologías utilizadas
 
 - **HTML5**: estructura del sitio web.
 - **CSS3**: estilos y diseño visual.
